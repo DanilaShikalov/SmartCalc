@@ -1,0 +1,3 @@
+/cygdrive/d/QTProjects/cmake-build-debug/CMakeFiles/QTProjects.dir
+/cygdrive/d/QTProjects/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/QTProjects/cmake-build-debug/CMakeFiles/rebuild_cache.dir
